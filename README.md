@@ -1,7 +1,7 @@
 # SkyIDE
 A IDE for Python, VB.NET, and huggingface. (ARM BASED) 
 * Dev started Oct. 29, 2021
-* (C) Flames LLC) 
+* (C) (Flames LLC) 
 * # #  
 Copyright <2021> <FLAMES CO. ENTERPRISES>
 
